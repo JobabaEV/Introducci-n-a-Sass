@@ -1,2 +1,2 @@
-# Introducci-n-a-Sass
+# Introduccion a Sass
 Introducción a Sass
